@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### It will finaly look somthing like this
+
+<img src="img/Screenshot from 2020-09-24 23-35-58.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,5 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
 
